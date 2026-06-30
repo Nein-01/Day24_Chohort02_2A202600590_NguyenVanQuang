@@ -1,0 +1,4 @@
+TruffleHog scan was not run because the `trufflehog` executable is not installed in this local environment.
+
+Requested command:
+trufflehog git file://. --only-verified
